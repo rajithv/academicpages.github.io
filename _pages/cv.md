@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D in Engineering and Computer Science, The Australian National University, 2021 
 
-Current Work
-======
+## Current Work
 * 2021 - Present: Senior Technical Officer
   * University of New England (Seconded at the University of Melbourne)
   * Postdoctoral Researcher at Transport, Health, and Urban Development (THUD) Research Laboratory at the University of Melbourne
